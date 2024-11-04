@@ -1,5 +1,5 @@
 
-# LIVE MULTICHAT - Multichannel Comment Aggregator for Live Streams
+# Multichannel Comment Aggregator for Live Streams
 
 This project is designed to collect comments from live streams on YouTube, VK Play, and Twitch, and store them in a server-side database. It includes the scripts to run the comment parsing service and an API for handling and retrieving data.
 
