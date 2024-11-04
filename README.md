@@ -110,11 +110,11 @@ live-multichat/
 │   ├── requirements.txt
 │
 └── cloud/
-    ├── api.php
-    ├── get.php
-    ├── options.php
-    ├── widget.php
-    ├── chat.sql
+│   ├── api.php
+│   ├── get.php
+│   ├── options.php
+│   ├── widget.php
+│   ├── chat.sql
 │
 └── README.md
 ```
