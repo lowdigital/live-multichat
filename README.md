@@ -60,11 +60,17 @@ The setup includes a Python-based comment parser that interacts with streaming A
    pip install -r requirements.txt
    ```
 
-4. Configure the `app.py` file:
+4. Install Playwright enviroment:
+
+   ```
+   playwright install
+   ```
+
+5. Configure the `app.py` file:
    - Replace `YOUTUBE_CHANNEL_URL`, `VK_PLAY_URL`, and `TWITCH_URL` with your channel URLs.
    - Set `POST_URL` to point to the server endpoint (e.g., `https://YOUR-DOMAIN.COM/get.php`).
 
-5. Run the `run.bat` script to start the comment aggregation
+6. Run the `run.bat` script to start the comment aggregation
 
 ### Step 3: Deploy the Server Files
 
