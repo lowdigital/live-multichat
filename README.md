@@ -61,11 +61,7 @@ This project is designed to collect comments from live streams on YouTube, VK Pl
    - Replace `YOUTUBE_CHANNEL_URL`, `VK_PLAY_URL`, and `TWITCH_URL` with your channel URLs.
    - Set `POST_URL` to point to the server endpoint (e.g., `https://YOUR-DOMAIN.COM/get.php`).
 
-5. Run the `run.bat` script to start the comment aggregation:
-
-   ```bash
-   .\run.bat
-   ```
+5. Run the `run.bat` script to start the comment aggregation
 
 ### Step 3: Deploy the Server Files
 
