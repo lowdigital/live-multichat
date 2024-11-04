@@ -1,8 +1,9 @@
 
 # Multichannel Comment Aggregator for Live Streams
 
-This project is designed to collect comments from live streams on YouTube, VK Play, and Twitch, and store them in a server-side database. It includes the scripts to run the comment parsing service and an API for handling and retrieving data.
+This project is designed as a comprehensive solution for aggregating live chat comments from multiple streaming platforms, specifically YouTube, VK Play, and Twitch. Whether you are a content creator looking to enhance your live streaming experience or a developer aiming to integrate chat functionalities into your system, this project provides the necessary tools. It enables seamless collection and display of live chat data, ideal for embedding a real-time chat widget in OBS or other broadcasting software. With this tool, streamers can gather audience interactions across various platforms and showcase them collectively as a unified chat widget for OBS or integrate them directly into their stream overlays.
 
+The setup includes a Python-based comment parser that interacts with streaming APIs and websites to pull live messages and send them to a server. On the server side, PHP scripts store and handle chat data, which can then be displayed in a customizable web widget. This makes it perfect for live stream setups, OBS chat widgets, multi-platform stream chat integration, and interactive overlays. Streamers on platforms like Twitch and VK Play, who need a consolidated chat for engagement, will find this tool invaluable.
 ## Table of Contents
 
 - [Features](#features)
