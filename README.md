@@ -1,3 +1,4 @@
+![DEMO](demo.jpg)
 
 # Multichannel Comment Aggregator for Live Streams
 
