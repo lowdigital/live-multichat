@@ -114,7 +114,7 @@ live-multichat/
     ├── get.php
     ├── options.php
     ├── widget.php
-    └── chat.sql
+    ├── chat.sql
 │
 └── README.md
 ```
