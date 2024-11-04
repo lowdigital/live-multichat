@@ -12,6 +12,7 @@ This project is designed to collect comments from live streams on YouTube, VK Pl
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [License](#license)
+- [Author](#author)
 
 ## Features
 
@@ -99,7 +100,7 @@ Edit `cloud/options.php`:
 ## Project Structure
 
 ```
-multichannel-comment-aggregator/
+live-multichat/
 │
 ├── local/
 │   ├── app.py
@@ -112,8 +113,14 @@ multichannel-comment-aggregator/
     ├── options.php
     ├── widget.php
     └── chat.sql
+│
+└── README.md
 ```
 
 ## License
 
 This project is licensed under the MIT License.
+
+## Author
+
+Follow updates on my Telegram channel: [low digital](https://t.me/low_digital).
