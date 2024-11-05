@@ -47,12 +47,8 @@ The setup includes a Python-based comment parser that interacts with streaming A
    cd live-multichat/local
    ```
 
-2. Set up the Python environment:
-
-   ```bash
-   python -m venv venv
-   venv\Scripts\activate
-   ```
+2. Install Python 3.10:
+https://apps.microsoft.com/detail/9pjpw5ldxlz5?hl=ru-RU&gl=RU
 
 3. Install dependencies:
 
