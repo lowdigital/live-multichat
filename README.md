@@ -48,7 +48,7 @@ The setup includes a Python-based comment parser that interacts with streaming A
    ```
 
 2. Install Python 3.10:
-https://apps.microsoft.com/detail/9pjpw5ldxlz5?hl=ru-RU&gl=RU
+https://apps.microsoft.com/detail/9pjpw5ldxlz5
 
 3. Install dependencies:
 
